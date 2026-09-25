@@ -1,6 +1,11 @@
-# Algorithms-for-Square-Pyramidal-Numbers
+## General Information
+This repo contains algorithms developed in the paper:
 
-This project contains two python files.  
+A. Dong, K. Saettone, K. Song, and A. Zaharescu, Cannonball polygons with multiplicities, *Hardy-Ramanujan Journal* 48, 2025.
+
+
+### Algorithms-for-Square-Pyramidal-Numbers
+It contains two python files.  
 
 Algorithm I.py checks whether every positive integer in some given range can be written as a sum of at most four square pyramidal numbers. 
 
